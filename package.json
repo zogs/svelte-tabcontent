@@ -1,0 +1,32 @@
+{
+  "name": "svelte-tabcontent",
+  "svelte": "src/index.js",
+  "module": "dist/index.mjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^9.0.0",
+    "rollup": "^2.0.0",
+    "rollup-plugin-css-only": "^3.1.0",
+    "rollup-plugin-svelte": "^7.0.0",
+    "svelte": "^3.5.0"
+  },
+  "keywords": [
+    "svelte",
+    "tab",
+    "round",
+    "ui"
+  ],
+  "files": [
+    "src",
+    "dist"
+  ],
+  "description": "A fully-customizable tab UI component to go with your beautiful designs",
+  "version": "1.0.1",
+  "dependencies": {},
+  "author": "Simon Guichard (https://zogs.org)",
+  "license": "MIT"
+}
