@@ -2,7 +2,7 @@
 
 A fully-customizable tab UI component to go with your beautiful designs
 
-![screenshot](https://github.com/zogs/zogs/blob/master/screenshot.png?raw=true)
+![screenshot](https://github.com/zogs/svelte-tabcontent/blob/main/screenshot.png?raw=true)
 
 ## Demo
 
